@@ -260,7 +260,7 @@ document.addEventListener("DOMContentLoaded", () => {
    },
    
    {titulo:"Sonic 3",
-    imagem:"imagens/sonic.jpg",
+    imagem:"imagens/1.jpg",
     video:"",
     sinopse:"Sonic 3 – O Filme é o próximo filme de comédia, ação e aventura baseado na popular série de videogames da Sega. Dando continuidade aos eventos de Sonic – O Filme e Sonic 2 – O Filme, a história segue o ouriço velocista Sonic (Ben Schwartz), o guerreiro equidna Knuckles (Idris Elba) e a raposa voadora Tails (Colleen O’Shaughnessey), que agora formam uma aliança para proteger a poderosa Esmeralda Mestra. Contudo, uma nova ameaça surge quando os militares da G.U.N., uma força especial secreta, descobrem que o corpo do Dr. Eggman (Jim Carrey) desapareceu do local onde ocorreu a batalha final, levando a uma nova perseguição cheia de perigos, reviravoltas e ação alucinante. À medida que enfrentam esse novo inimigo, o trio de heróis precisará se unir mais do que nunca para impedir que uma catástrofe ainda maior aconteça. Eles também devem confrontar segredos do passado de Sonic e de Eggman, que podem mudar o destino do mundo.",
     categoria:"acao",
@@ -376,6 +376,4 @@ document.addEventListener("DOMContentLoaded", () => {
       });
   }
   });
-
   
-
